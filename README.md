@@ -1,1 +1,1 @@
-# Hand_gesture_control-_of_light
+# The Hand gesture control of light using openCV
